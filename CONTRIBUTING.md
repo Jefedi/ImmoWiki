@@ -24,5 +24,5 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 
 1. **Cloner le Dépôt** :
    ```bash
-   git clone https://github.com/votre-utilisateur/dynasty8-immobilier.git
-   cd dynasty8-immobilier
+   git clone https://github.com/Jefedi/ImmoWiki
+   cd ImmoWiki
