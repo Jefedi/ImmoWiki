@@ -2,14 +2,22 @@
 
 ## Vente
 
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image de l'appartement](URL_DE_L_IMAGE)
+- **Appartement Spacieux**
+  - **Description** : Appartement de 3 chambres avec une vue imprenable sur la ville.
+  - **Prix** : 250,000 €
+  - **Image** :
+    ![Appartement Spacieux](/assets/appartement_spacieux.jpg)
+
+- **Appartement Moderne**
+  - **Description** : Appartement contemporain avec 2 chambres et un balcon.
+  - **Prix** : 200,000 €
+  - **Image** :
+    ![Appartement Moderne](/assets/appartement_moderne.jpg)
 
 ## Location
 
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image de l'appartement](URL_DE_L_IMAGE)
+- **Appartement Cosy**
+  - **Description** : Appartement de 1 chambre, idéal pour un couple.
+  - **Loyer mensuel** : 800 €
+  - **Image** :
+    ![Appartement Cosy](/assets/appartement_cosy.jpg)

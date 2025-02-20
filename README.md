@@ -10,8 +10,12 @@ Dynasty8 est une agence immobilière spécialisée dans la vente et la location 
 
 ## Comment nous trouver
 
-Vous pouvez facilement nous localiser sur la carte en cherchant l'indication "Dynasty8".
+Vous pouvez facilement nous localiser sur la carte en cherchant l'indication **"Dynasty8"**.
 
 ## Contactez-nous
 
-Pour nous contacter, rendez-vous dans le répertoire téléphonique sous "Services" et recherchez "Dynasty8".
+Pour nous contacter, rendez-vous dans le répertoire téléphonique sous **"Services"** et recherchez **"Dynasty8"**.
+
+---
+
+Pour plus d'informations, n'hésitez pas à nous contacter !
