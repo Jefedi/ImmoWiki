@@ -9,3 +9,4 @@
   * [Local](annonces/local.md)
   * [Entrepôt](annonces/entrepot.md)
   * [Club de Bikers](annonces/club_de_bikers.md)
+  * [Annonces de Garages pour Voitures](annonces/annonces-de-garages-pour-voitures.md)
