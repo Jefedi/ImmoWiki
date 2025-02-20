@@ -1,3 +1,7 @@
+---
+icon: house-building
+---
+
 # Annonces Immobilières
 
 ## Vente
