@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Accueil](README.md)
-
 * [Annonces Immobilières](annonces/README.md)
   * [Maison](annonces/maison.md)
   * [Appartement](annonces/appartement.md)
@@ -10,22 +9,18 @@
   * [Local](annonces/local.md)
   * [Entrepot](annonces/entrepot.md)
   * [Club de Bikers](annonces/club_de_bikers.md)
-  * [Garage Voiture](annonces/garage_voiture.md)
-
+  * [Garage Voiture](annonces/garage-voiture.md)
 * [Informations Generales](pages/informations_generales/README.md)
-  * [A Propos de Nous](pages/informations_generales/a_propos.md)
-  * [Contactez Nous](pages/informations_generales/contact.md)
-  * [Temoignages Clients](pages/informations_generales/temoignages.md)
-
+  * [A Propos de Nous](informations_generales/a-propos-de-nous.md)
+  * [Contactez Nous](informations_generales/contactez-nous.md)
+  * [Temoignages Clients](informations_generales/temoignages-clients.md)
 * [Ressources Utiles](pages/ressources_utiles/README.md)
-  * [Guide d'Achat et de Location](pages/ressources_utiles/guide.md)
-  * [FAQ](pages/ressources_utiles/faq.md)
-  * [Blog](pages/ressources_utiles/blog.md)
-  * [Galerie de Projets](pages/ressources_utiles/galerie.md)
-
+  * [Guide d'Achat et de Location](ressources_utiles/guide-dachat-et-de-location.md)
+  * [FAQ](ressources_utiles/faq.md)
+  * [Blog](ressources_utiles/blog.md)
+  * [Galerie de Projets](ressources_utiles/galerie-de-projets.md)
 * [Services et Outils](pages/services_et_outils/README.md)
-  * [Nos Services](pages/services_et_outils/services.md)
-  * [Ressources et Outils](pages/services_et_outils/ressources.md)
-
+  * [Nos Services](services_et_outils/nos-services.md)
+  * [Ressources et Outils](services_et_outils/ressources-et-outils.md)
 * [Legal](pages/legal/README.md)
-  * [Politique de Confidentialite et Conditions d'Utilisation](pages/legal/politique.md)
+  * [Politique de Confidentialite et Conditions d'Utilisation](legal/politique-de-confidentialite-et-conditions-dutilisation.md)
