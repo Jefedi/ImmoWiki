@@ -1,5 +1,7 @@
 # Foire Aux Questions
 
+Trouvez ici des réponses aux questions fréquentes concernant nos services et les procédures immobilières. Si vous avez d'autres questions, n'hésitez pas à nous contacter.
+
 ## Général
 
 - **Comment puis-je contacter Dynasty8 Immobilier ?**
@@ -23,7 +25,5 @@
 
 - **Quels documents sont nécessaires pour louer une propriété ?**
   Vous aurez besoin de fournir une pièce d'identité, des références, et une preuve de revenus.
-
----
 
 Si vous avez d'autres questions, n'hésitez pas à nous contacter.

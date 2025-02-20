@@ -1,4 +1,4 @@
-# Services Spécialisés
+# Nos Services
 
 Chez Dynasty8 Immobilier, nous offrons une gamme de services spécialisés pour répondre à tous vos besoins immobiliers.
 
@@ -11,7 +11,5 @@ Chez Dynasty8 Immobilier, nous offrons une gamme de services spécialisés pour 
 
 - **Évaluation de Propriété** : Obtenez une évaluation précise de la valeur de votre propriété.
 - **Conseil en Investissement** : Conseils personnalisés pour maximiser vos investissements immobiliers.
-
----
 
 Contactez-nous pour en savoir plus sur nos services spécialisés.

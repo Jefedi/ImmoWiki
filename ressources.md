@@ -1,6 +1,6 @@
 # Ressources et Outils
 
-Nous offrons une variété de ressources et d'outils pour vous aider dans votre parcours immobilier.
+Nous offrons une variété de ressources et d'outils pour vous aider dans vos démarches immobilières.
 
 ## Outils Utiles
 
@@ -11,7 +11,5 @@ Nous offrons une variété de ressources et d'outils pour vous aider dans votre 
 
 - **Guides Téléchargeables** : Accédez à nos guides gratuits sur l'achat, la vente et la location de biens immobiliers.
 - **Webinaires** : Participez à nos webinaires pour en savoir plus sur le marché immobilier.
-
----
 
 Utilisez nos ressources pour prendre des décisions éclairées.

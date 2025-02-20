@@ -1,5 +1,7 @@
 # Guide d'Achat et de Location
 
+Ce guide vous fournira des conseils et des étapes détaillées pour vous aider à acheter ou louer une propriété. Que vous soyez un premier acheteur ou un investisseur expérimenté, vous trouverez ici des informations précieuses pour faciliter votre parcours immobilier.
+
 ## Achat de Propriété
 
 1. **Définir votre budget** : Déterminez combien vous pouvez dépenser pour l'achat d'une propriété.
@@ -15,7 +17,5 @@
 3. **Visiter les propriétés** : Organisez des visites pour voir les propriétés disponibles.
 4. **Soumettre une demande de location** : Remplissez les formulaires nécessaires et soumettez votre demande.
 5. **Signer le bail** : Finalisez le processus de location en signant le contrat de bail.
-
----
 
 Nous sommes là pour vous guider à chaque étape du processus.

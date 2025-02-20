@@ -1,6 +1,6 @@
-# Blog Dynasty8 Immobilier
+# Blog
 
-Bienvenue sur notre blog, où nous partageons des conseils, des actualités et des analyses sur le marché immobilier.
+Bienvenue sur notre blog, où nous partageons des conseils, des actualités et des analyses sur le marché immobilier. Restez informé avec nos dernières publications.
 
 ## Articles Récents
 
@@ -12,7 +12,5 @@ Bienvenue sur notre blog, où nous partageons des conseils, des actualités et d
 
 - **Comment Augmenter la Valeur de Votre Propriété**
   Astuces et conseils pour améliorer la valeur de votre maison ou appartement.
-
----
 
 Restez informé avec nos dernières publications.

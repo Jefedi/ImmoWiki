@@ -8,6 +8,4 @@ Chez Dynasty8 Immobilier, nous prenons la confidentialité de vos informations t
 
 En utilisant notre site, vous acceptez nos conditions d'utilisation. Nous nous réservons le droit de modifier ces conditions à tout moment.
 
----
-
 Pour plus d'informations, veuillez nous contacter.

@@ -1,6 +1,6 @@
 # Galerie de Projets
 
-Découvrez quelques-uns de nos projets immobiliers réussis.
+Découvrez quelques-uns de nos projets immobiliers réussis. Cette galerie présente des photos et des descriptions de propriétés que nous avons aidé à vendre ou à louer.
 
 ## Projets Récents
 
@@ -15,7 +15,5 @@ Découvrez quelques-uns de nos projets immobiliers réussis.
 - **Villa à la Campagne**
   ![Villa à la Campagne](/assets/villa_campagne.jpg)
   Une villa spacieuse entourée de nature.
-
----
 
 Explorez nos projets pour voir ce que nous pouvons réaliser pour vous.
