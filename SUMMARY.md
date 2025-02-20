@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Bienvenue chez Dynasty8 Immobilier](README.md)
+* [Accueil](README.md)
+
 * [Annonces Immobilières](annonces/README.md)
   * [Maison](annonces/maison.md)
   * [Appartement](annonces/appartement.md)
@@ -11,13 +12,20 @@
   * [Club de Bikers](annonces/club_de_bikers.md)
   * [Garage Voiture](annonces/garage_voiture.md)
 
-* [À Propos](pages/a_propos.md)
-* [Blog](pages/blog.md)
-* [Contact](pages/contact.md)
-* [FAQ](pages/faq.md)
-* [Galerie](pages/galerie.md)
-* [Guide](pages/guide.md)
-* [Politiques](pages/politique.md)
-* [Ressources](pages/ressources.md)
-* [Services](pages/services.md)
-* [Témoignages](pages/temoignages.md)
+* [Informations Générales]
+  * [À Propos de Nous](pages/a_propos.md)
+  * [Contactez-Nous](pages/contact.md)
+  * [Témoignages Clients](pages/temoignages.md)
+
+* [Ressources Utiles]
+  * [Guide d'Achat et de Location](pages/guide.md)
+  * [FAQ](pages/faq.md)
+  * [Blog](pages/blog.md)
+  * [Galerie de Projets](pages/galerie.md)
+
+* [Services et Outils]
+  * [Nos Services](pages/services.md)
+  * [Ressources et Outils](pages/ressources.md)
+
+* [Légal]
+  * [Politique de Confidentialité et Conditions d'Utilisation](pages/politique.md)
