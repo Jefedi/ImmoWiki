@@ -1,103 +1,17 @@
-# Annonces Immobilières
+# Bienvenue chez Dynasty8 Immobilier
 
-## Vente
+Dynasty8 est une agence immobilière spécialisée dans la vente et la location de biens immobiliers sur le serveur RP. Nous offrons une gamme complète de services pour répondre à tous vos besoins immobiliers.
 
-### Maison
+## Nos Services
 
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image de la maison](URL_DE_L_IMAGE)
+- **Achat et Vente** : Nous vous aidons à trouver la propriété de vos rêves ou à vendre votre bien au meilleur prix.
+- **Location** : Découvrez nos offres de location pour des séjours courts ou longs.
+- **Conseil** : Bénéficiez de notre expertise pour tous vos projets immobiliers.
 
-### Appartement
+## Comment nous trouver
 
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image de l'appartement](URL_DE_L_IMAGE)
+Vous pouvez facilement nous localiser sur la carte en cherchant l'indication "Dynasty8".
 
-### Villa
+## Contactez-nous
 
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image de la villa](URL_DE_L_IMAGE)
-
-### Bureau
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image du bureau](URL_DE_L_IMAGE)
-
-### Local
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image du local](URL_DE_L_IMAGE)
-
-### Entrepôt
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image de l'entrepôt](URL_DE_L_IMAGE)
-
-### Club de Bikers
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Prix** : [À compléter]
-- **Image** : ![Image du club de bikers](URL_DE_L_IMAGE)
-
-## Location
-
-### Maison
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image de la maison](URL_DE_L_IMAGE)
-
-### Appartement
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image de l'appartement](URL_DE_L_IMAGE)
-
-### Villa
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image de la villa](URL_DE_L_IMAGE)
-
-### Bureau
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image du bureau](URL_DE_L_IMAGE)
-
-### Local
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image du local](URL_DE_L_IMAGE)
-
-### Entrepôt
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image de l'entrepôt](URL_DE_L_IMAGE)
-
-### Club de Bikers
-
-- **Titre de l'annonce** : [À compléter]
-- **Description** : [À compléter]
-- **Loyer mensuel** : [À compléter]
-- **Image** : ![Image du club de bikers](URL_DE_L_IMAGE)
+Pour nous contacter, rendez-vous dans le répertoire téléphonique sous "Services" et recherchez "Dynasty8".

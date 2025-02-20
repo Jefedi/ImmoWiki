@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Annonces Immobilières](README.md)
-* [Bienvenue chez Dynasty8 Immobilier](index.md)
+* [Bienvenue chez Dynasty8 Immobilier](README.md)
+* [Annonces Immobilières](annonces/README.md)
+  * [Test](annonces/test.md)
