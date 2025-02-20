@@ -1,7 +1,3 @@
-Voici une version améliorée de votre fichier `CONTRIBUTING.md`, avec des instructions plus détaillées et des explications claires pour guider les contributeurs :
-
-### `CONTRIBUTING.md`
-
 ```markdown
 # Guide de Contribution à Dynasty8 Immobilier Documentation
 
