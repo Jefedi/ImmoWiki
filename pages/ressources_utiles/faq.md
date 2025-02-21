@@ -4,7 +4,7 @@ Trouvez ici des réponses aux questions fréquentes concernant nos services et l
 
 ## Général
 
-- **Comment puis-je contacter Dynasty8 Immobilier ?**
+- **Comment puis-je contacter Dynasty8  ?**
   Vous pouvez nous contacter via notre page de contact ou en nous appelant directement.
 
 - **Quels types de propriétés proposez-vous ?**

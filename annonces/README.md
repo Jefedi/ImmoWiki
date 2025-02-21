@@ -4,7 +4,7 @@ icon: house-building
 
 # Annonces Immobilières
 
-Ce dossier contient toutes les annonces immobilières disponibles chez Dynasty8 Immobilier. Vous y trouverez des informations détaillées sur les propriétés à vendre ou à louer.
+Ce dossier contient toutes les annonces immobilières disponibles chez Dynasty8 . Vous y trouverez des informations détaillées sur les propriétés à vendre ou à louer.
 
 ## Catégories d'Annonces
 

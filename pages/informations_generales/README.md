@@ -1,10 +1,10 @@
 # Informations Generales
 
-Bienvenue dans la section des Informations Générales de Dynasty8 Immobilier. Ici, vous trouverez des informations essentielles sur notre agence, comment nous contacter, ainsi que les témoignages de nos clients satisfaits.
+Bienvenue dans la section des Informations Générales de Dynasty8 . Ici, vous trouverez des informations essentielles sur notre agence, comment nous contacter, ainsi que les témoignages de nos clients satisfaits.
 
 ## [À Propos de Nous](a_propos.md)
 
-Découvrez l'histoire de Dynasty8 Immobilier, nos valeurs fondamentales, et rencontrez les membres de notre équipe dévouée.
+Découvrez l'histoire de Dynasty8 , nos valeurs fondamentales, et rencontrez les membres de notre équipe dévouée.
 
 ## [Contactez-Nous](contact.md)
 

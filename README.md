@@ -5,7 +5,7 @@ noIndex: true
 
 # README
 
-Bienvenue dans la documentation open-source de Dynasty8 Immobilier. Ce projet vise à fournir une documentation complète et des ressources pour l'achat, la vente et la location de biens immobiliers.
+Bienvenue dans la documentation open-source de Dynasty8 . Ce projet vise à fournir une documentation complète et des ressources pour l'achat, la vente et la location de biens immobiliers.
 
 ## Table des Matières
 
@@ -65,4 +65,4 @@ Ce projet est sous licence open-source. Voir le fichier [LICENSE](LICENSE/) pour
 
 ***
 
-Merci d'utiliser Dynasty8 Immobilier Documentation ! Nous espérons que vous trouverez ce projet utile et nous serions ravis de recevoir vos contributions.
+Merci d'utiliser Dynasty8  Documentation ! Nous espérons que vous trouverez ce projet utile et nous serions ravis de recevoir vos contributions.

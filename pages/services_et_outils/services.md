@@ -1,6 +1,6 @@
 # Nos Services
 
-Chez Dynasty8 Immobilier, nous offrons une gamme de services spécialisés pour répondre à tous vos besoins immobiliers.
+Chez Dynasty8 , nous offrons une gamme de services spécialisés pour répondre à tous vos besoins immobiliers.
 
 ## Gestion de Propriété
 

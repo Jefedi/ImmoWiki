@@ -2,7 +2,7 @@
 icon: hand-spock
 ---
 
-# Bienvenue chez Dynasty8 Immobilier
+# Bienvenue chez Dynasty8 
 
 Dynasty8 est une agence immobilière spécialisée dans la vente et la location de biens immobiliers sur le serveur RP. Nous offrons une gamme complète de services pour répondre à tous vos besoins immobiliers.
 

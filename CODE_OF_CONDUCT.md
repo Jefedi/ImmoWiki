@@ -1,8 +1,8 @@
-# Code de Conduite de Dynasty8 Immobilier
+# Code de Conduite de Dynasty8 
 
 ## Notre Engagement
 
-Chez Dynasty8 Immobilier, nous nous engageons à fournir un environnement accueillant et inclusif pour tous les contributeurs. Nous attendons de tous les participants à ce projet qu'ils respectent ce code de conduite dans toutes les interactions et communications.
+Chez Dynasty8 , nous nous engageons à fournir un environnement accueillant et inclusif pour tous les contributeurs. Nous attendons de tous les participants à ce projet qu'ils respectent ce code de conduite dans toutes les interactions et communications.
 
 ## Comportement Attendu
 
@@ -36,4 +36,4 @@ Ce code de conduite est inspiré par le [Code de Conduite Contributor Covenant](
 
 ---
 
-Merci de contribuer à un environnement respectueux et inclusif chez Dynasty8 Immobilier.
+Merci de contribuer à un environnement respectueux et inclusif chez Dynasty8 .

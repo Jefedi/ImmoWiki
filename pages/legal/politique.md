@@ -2,7 +2,7 @@
 
 ## Politique de Confidentialité
 
-Chez Dynasty8 Immobilier, nous prenons la confidentialité de vos informations très au sérieux. Nous collectons et utilisons vos données personnelles uniquement dans le cadre de nos services et conformément à la législation en vigueur.
+Chez Dynasty8 , nous prenons la confidentialité de vos informations très au sérieux. Nous collectons et utilisons vos données personnelles uniquement dans le cadre de nos services et conformément à la législation en vigueur.
 
 ## Conditions d'Utilisation
 
