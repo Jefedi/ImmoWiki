@@ -1,8 +1,3 @@
----
-hidden: true
-noIndex: true
----
-
 # README
 
 Bienvenue dans la documentation open-source de Dynasty8 . Ce projet vise à fournir une documentation complète et des ressources pour l'achat, la vente et la location de biens immobiliers.
