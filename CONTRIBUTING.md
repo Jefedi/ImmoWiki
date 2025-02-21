@@ -1,7 +1,7 @@
 ```markdown
-# Guide de Contribution à Dynasty8  Documentation
+# Guide de Contribution à Dynasty8 Documentation
 
-Merci de votre intérêt pour contribuer à Dynasty8  Documentation ! Ce guide vous aidera à comprendre comment participer au projet et à apporter vos modifications de manière efficace.
+Merci de votre intérêt pour contribuer à Dynasty8 Documentation ! Ce guide vous aidera à comprendre comment participer au projet et à apporter vos modifications de manière efficace.
 
 ## Prérequis
 
@@ -76,5 +76,5 @@ En contribuant à ce projet, vous acceptez de respecter notre [Code de Conduite]
 
 ---
 
-Merci de votre contribution à Dynasty8  Documentation ! Vos efforts aident à améliorer ce projet et à le rendre plus utile pour tous les utilisateurs.
----
+Merci de votre contribution à Dynasty8 Documentation ! Vos efforts aident à améliorer ce projet et à le rendre plus utile pour tous les utilisateurs.
+```
