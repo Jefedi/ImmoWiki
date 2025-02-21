@@ -1,14 +1,18 @@
-# Dynasty8 Immobilier Documentation
+---
+hidden: true
+---
+
+# README
 
 Bienvenue dans la documentation open-source de Dynasty8 Immobilier. Ce projet vise à fournir une documentation complète et des ressources pour l'achat, la vente et la location de biens immobiliers.
 
 ## Table des Matières
 
-- [Introduction](#introduction)
-- [Structure du Projet](#structure-du-projet)
-- [Utilisation](#utilisation)
-- [Contribution](#contribution)
-- [Licence](#licence)
+* [Introduction](./#introduction)
+* [Structure du Projet](./#structure-du-projet)
+* [Utilisation](./#utilisation)
+* [Contribution](./#contribution)
+* [Licence](./#licence)
 
 ## Introduction
 
@@ -18,9 +22,9 @@ Ce projet est conçu pour offrir une plateforme de documentation claire et organ
 
 Le projet est organisé en plusieurs dossiers principaux :
 
-- **`annonces/`** : Contient toutes les annonces immobilières, classées par type de bien (maison, appartement, villa, etc.).
-- **`pages/`** : Regroupe les pages supplémentaires telles que "À Propos", "Contact", "FAQ", etc.
-- **`assets/`** : Dossier pour stocker les images et autres ressources multimédias.
+* **`annonces/`** : Contient toutes les annonces immobilières, classées par type de bien (maison, appartement, villa, etc.).
+* **`pages/`** : Regroupe les pages supplémentaires telles que "À Propos", "Contact", "FAQ", etc.
+* **`assets/`** : Dossier pour stocker les images et autres ressources multimédias.
 
 Chaque dossier principal contient un fichier `README.md` qui introduit le contenu de la section.
 
@@ -28,12 +32,12 @@ Chaque dossier principal contient un fichier `README.md` qui introduit le conten
 
 ### Navigation
 
-- **Accueil** : La page d'accueil fournit une introduction générale au projet.
-- **Annonces Immobilières** : Parcourez les différentes catégories d'annonces pour trouver des informations sur les propriétés disponibles.
-- **Informations Générales** : Découvrez des informations sur notre agence, comment nous contacter, et lisez les témoignages de nos clients.
-- **Ressources Utiles** : Accédez à des guides, FAQ, blogs, et une galerie de projets.
-- **Services et Outils** : Explorez nos services et utilisez nos outils pour faciliter vos démarches immobilières.
-- **Légal** : Consultez notre politique de confidentialité et nos conditions d'utilisation.
+* **Accueil** : La page d'accueil fournit une introduction générale au projet.
+* **Annonces Immobilières** : Parcourez les différentes catégories d'annonces pour trouver des informations sur les propriétés disponibles.
+* **Informations Générales** : Découvrez des informations sur notre agence, comment nous contacter, et lisez les témoignages de nos clients.
+* **Ressources Utiles** : Accédez à des guides, FAQ, blogs, et une galerie de projets.
+* **Services et Outils** : Explorez nos services et utilisez nos outils pour faciliter vos démarches immobilières.
+* **Légal** : Consultez notre politique de confidentialité et nos conditions d'utilisation.
 
 ### Mise à Jour des Contenus
 
@@ -56,8 +60,8 @@ Pour plus d'informations, consultez notre [guide de contribution](CONTRIBUTING.m
 
 ## Licence
 
-Ce projet est sous licence open-source. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence open-source. Voir le fichier [LICENSE](LICENSE/) pour plus de détails.
 
----
+***
 
 Merci d'utiliser Dynasty8 Immobilier Documentation ! Nous espérons que vous trouverez ce projet utile et nous serions ravis de recevoir vos contributions.
