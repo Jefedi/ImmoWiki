@@ -1,8 +1,8 @@
 ---
-icon: garage-open
+icon: boxes-stacked
 ---
 
-# Entrepôt
+# Entrepot
 
 ## Vente
 

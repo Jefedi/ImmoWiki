@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](README.md)
 * [Accueil](Accueil_README.md)
 * [Annonces Immobilières](annonces/README.md)
   * [Maison](annonces/maison.md)
@@ -12,8 +13,8 @@
   * [Garage Voiture](annonces/garage-voiture.md)
 * [Informations Generales](pages/informations_generales/README.md)
   * [A Propos de Nous](pages/informations_generales/a_propos.md)
-  * [Contactez Nous](pages/informations_generales/contact.md)
   * [Temoignages Clients](pages/informations_generales/temoignages.md)
+  * [Contactez Nous](pages/informations_generales/contact.md)
 * [Ressources Utiles](pages/ressources_utiles/README.md)
   * [Guide d'Achat et de Location](pages/ressources_utiles/guide.md)
   * [Galerie de Projets](pages/ressources_utiles/galerie.md)
