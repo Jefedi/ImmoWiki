@@ -1,6 +1,6 @@
 # Table of contents
 
-<!-- - * [README](README.md) -->
+* [README](README.md)
 * [Accueil](Accueil_README.md)
 * [Annonces Immobilières](annonces/README.md)
   * [Maison](annonces/maison.md)
