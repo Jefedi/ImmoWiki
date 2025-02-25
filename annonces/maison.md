@@ -11,7 +11,7 @@ coverY: 0
 
 * **Superbe Maison Familiale**
   * **Description** : Maison de 4 chambres avec un grand jardin et une piscine.
-  * **Prix** : 450,000 €
+  * **Prix** : 10,000 €
   * **Image** : ![Maison Familiale](https://github.com/Jefedi/ImmoWiki/blob/main/assets/maison_familiale.jpg)
 * **Maison Moderne**
   * **Description** : Maison contemporaine avec 3 chambres et un design ouvert.
