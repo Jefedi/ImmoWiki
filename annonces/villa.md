@@ -9,15 +9,15 @@ icon: house-day
 * **Villa de Luxe**
   * **Description** : Villa de 5 chambres avec piscine et jardin paysager.
   * **Prix** : 1,200,000 €
-  * **Image** : ![Villa de Luxe](../assets/villa_luxe.jpg)
+  * **Image** : ![Villa de Luxe](https://github.com/Jefedi/ImmoWiki/blob/main/assets/villa_luxe.jpg)
 * **Villa Moderne**
   * **Description** : Villa contemporaine avec 4 chambres et un design élégant.
   * **Prix** : 950,000 €
-  * **Image** : ![Villa Moderne](../assets/villa_moderne.jpg)
+  * **Image** : ![Villa Moderne](https://github.com/Jefedi/ImmoWiki/blob/main/assets/villa_moderne.jpg)
 
 ## Location
 
 * **Villa de Charme**
   * **Description** : Villa de 3 chambres avec une vue magnifique sur la mer.
   * **Loyer mensuel** : 3,000 €
-  * **Image** : ![Villa de Charme](../assets/villa_charme.jpg)
+  * **Image** : ![Villa de Charme](https://github.com/Jefedi/ImmoWiki/blob/main/assets/villa_charme.jpg)
