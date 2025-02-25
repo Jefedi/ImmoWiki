@@ -1,11 +1,7 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1739369984535-35b1ae356378?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDA0NTAzNTB8&ixlib=rb-4.0.3&q=85
-coverY: 0
+icon: hand-spock
+hidden: true
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
