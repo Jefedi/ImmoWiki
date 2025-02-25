@@ -1,5 +1,8 @@
 ---
 icon: house-chimney-user
+cover: >-
+  https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0b%2Fb9%2F3b%2F0bb93b3e13c570bd090356b6804f8196.png&f=1&nofb=1&ipt=4c44ac0c5a6d9c3db87a9138435b0800a04e4874c305ecefbebf0e7ab7d0c952&ipo=images
+coverY: 0
 ---
 
 # Maison
