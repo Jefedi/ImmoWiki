@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [Accueil](Accueil_README.md)
+* [Accueil](README.md)
 * [Annonces Immobilières](annonces/README.md)
   * [Maison](annonces/maison.md)
   * [Appartement](annonces/appartement.md)
@@ -25,3 +24,4 @@
   * [Ressources et Outils](pages/services_et_outils/ressources.md)
 * [Legal](pages/legal/README.md)
   * [Politique de Confidentialite et Conditions d'Utilisation](pages/legal/politique.md)
+* [Participer a améliore la documentation](<README (1).md>)
