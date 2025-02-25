@@ -24,4 +24,4 @@
   * [Ressources et Outils](pages/services_et_outils/ressources.md)
 * [Legal](pages/legal/README.md)
   * [Politique de Confidentialite et Conditions d'Utilisation](pages/legal/politique.md)
-* [README](<README (1).md>)
+* [README](help.md)
