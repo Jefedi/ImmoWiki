@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Accueil](index_README.md)
+* [Accueil](README.md)
 * [Annonces Immobilières](annonces/README.md)
   * [Maison](annonces/maison.md)
   * [Appartement](annonces/appartement.md)
