@@ -6,14 +6,14 @@ Cette section regroupe des ressources utiles pour vous aider dans vos démarches
 
 Consultez notre guide complet pour des conseils et des étapes détaillées sur l'achat et la location de biens immobiliers.
 
-## [FAQ](faq.md)
+## [Galerie de Projets](galerie.md)
 
-Trouvez des réponses aux questions fréquentes concernant nos services et les procédures immobilières.
+Explorez nos projets réussis à travers une galerie de photos et de descriptions.
 
 ## [Blog](blog.md)
 
 Restez informé avec nos articles et actualités sur le marché immobilier.
 
-## [Galerie de Projets](galerie.md)
+## [FAQ](faq.md)
 
-Explorez nos projets réussis à travers une galerie de photos et de descriptions.
+Trouvez des réponses aux questions fréquentes concernant nos services et les procédures immobilières.
