@@ -46,9 +46,9 @@ Découvrez cet appartement raffiné et sécurisé, situé dans l'un des quartier
 
 **Prix :**
 
-* **📌 Prix de vente : 10 000 $**\
+  **-📌 Prix de vente : 10 000 $**\
   **- 🏠 Loyer mensuel : 1 000 $**
-* **- 📅 Loyer hebdomadaaire : 250 $**\
+  **- 📅 Loyer hebdomadaaire : 250 $**\
   **- ⏳ Loyer journalier : 35 $**
 
 **Contactez Dynasty8 :** Pour plus d'informations ou pour organiser une visite, contactez Dynasty8 directement depuis votre téléphone en jeu. Allez dans 'Service', puis sélectionnez 'Dynasty8'. Ne manquez pas cette opportunité de vivre dans l'un des appartements les plus convoités de Los Santos !
