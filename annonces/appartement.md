@@ -47,7 +47,7 @@ Découvrez cet appartement raffiné et sécurisé, situé dans l'un des quartier
 **Prix :**
 
   **-📌 Prix de vente : 10 000 $**\
-  **- 🏠 Loyer mensuel : 1 000 $**
+  **- 🏠 Loyer mensuel : 1 000 $**\
   **- 📅 Loyer hebdomadaaire : 250 $**\
   **- ⏳ Loyer journalier : 35 $**
 
