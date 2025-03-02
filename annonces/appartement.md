@@ -17,7 +17,10 @@ Découvrez cet appartement moderne et sécurisé, niché au cœur de Los Santos,
 
 **Emplacement :** Au choix du client
 
-**Prix : 35,000 $**
+**-📌 Prix de vente : 35 000 $**\
+**-🏠 Loyer mensuel : 3 500 $**\
+**-📅 Loyer hebdomadaire : 875 $**\
+**-⏳ Loyer journalier : 115 $
 
 Ne manquez pas cette opportunité unique de posséder un bien immobilier exceptionnel à Los Santos. Contactez Dynasty8 dès aujourd'hui pour organiser une visite ou obtenir plus d'informations. Nos agents immobiliers sont à votre disposition pour vous aider à trouver la propriété de vos rêves.
 
