@@ -36,24 +36,24 @@ Ne manquez pas cette opportunité unique de posséder un bien immobilier excepti
 Découvrez cet appartement raffiné et sécurisé, situé dans l'un des quartiers les plus recherchés de Los Santos. Idéal pour les joueurs exigeants, cet appartement offre un cadre de vie luxueux avec des équipements modernes et une sécurité optimale.
 
 **Caractéristiques :**
-- **Chambre Élégante :** Une chambre spacieuse avec un lit confortable, offrant un espace de repos idéal après une journée bien remplie.
-- **Salle de Bain Contemporaine :** Une salle de bain moderne avec douche, lavabo et toilettes, pour un confort maximal.
-- **Espace de Vie Confortable :** Un salon accueillant équipé d'une télévision pour vos moments de détente, ainsi qu'un coin repas pour savourer vos repas.
-- **Dressing Organisé :** Un espace de rangement bien pensé pour garder vos affaires en ordre.
 
-**Emplacement :**
-Situé dans un quartier animé et sécurisé de Los Santos, cet appartement est à proximité des principaux commerces, restaurants et lieux de divertissement. Profitez de la vie urbaine tout en bénéficiant d'un environnement sûr et paisible.
+* **Chambre Élégante :** Une chambre spacieuse avec un lit confortable, offrant un espace de repos idéal après une journée bien remplie.
+* **Salle de Bain Contemporaine :** Une salle de bain moderne avec douche, lavabo et toilettes, pour un confort maximal.
+* **Espace de Vie Confortable :** Un salon accueillant équipé d'une télévision pour vos moments de détente, ainsi qu'un coin repas pour savourer vos repas.
+* **Dressing Organisé :** Un espace de rangement bien pensé pour garder vos affaires en ordre.
+
+**Emplacement :** Situé dans un quartier animé et sécurisé de Los Santos, cet appartement est à proximité des principaux commerces, restaurants et lieux de divertissement. Profitez de la vie urbaine tout en bénéficiant d'un environnement sûr et paisible.
 
 **Prix :**
-- **Achat :** 10,000 $
-- **Location à la semaine :** 500 $
-- **Location au mois :** 2,000 $
-- **Location à la journée :** 71 $
 
-**Contactez Dynasty8 :**
-Pour plus d'informations ou pour organiser une visite, contactez Dynasty8 directement depuis votre téléphone en jeu. Allez dans 'Service', puis sélectionnez 'Dynasty8'. Ne manquez pas cette opportunité de vivre dans l'un des appartements les plus convoités de Los Santos !
+* **📌 Prix de vente : 10 000 $**\
+  **- 🏠 Loyer mensuel : 1 000 $**
+* **- 📅 Loyer hebdomadaaire : 250 $**\
+  **- ⏳ Loyer journalier : 35 $**
 
----
+**Contactez Dynasty8 :** Pour plus d'informations ou pour organiser une visite, contactez Dynasty8 directement depuis votre téléphone en jeu. Allez dans 'Service', puis sélectionnez 'Dynasty8'. Ne manquez pas cette opportunité de vivre dans l'un des appartements les plus convoités de Los Santos !
+
+***
 
 **Appelez Dynasty8 dès aujourd'hui et faites de cet appartement votre nouveau chez-vous dans le monde de GTA RP !**
 
