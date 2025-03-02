@@ -1,0 +1,14 @@
+# Configuration de base de votre documentation
+site_name: Dynasty8
+nav:
+    - Home: index.md
+    - Annonces: annonces.md
+    - Blog:
+        - blog/index.md
+
+
+# Configuration du thème
+theme:
+    language: fr
+    name: material
+    logo: assets/dynasty8.svg
