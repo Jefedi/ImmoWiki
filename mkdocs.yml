@@ -1,0 +1,29 @@
+site_name: dynasty8
+site_url: https://dynasty.jefe.ovh
+theme:
+  name: material
+
+nav:
+  - Accueil: index.md
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
