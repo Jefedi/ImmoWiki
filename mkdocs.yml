@@ -1,26 +1,69 @@
 site_name: dynasty8
 site_url: https://dynasty.jefe.ovh
-theme:
-  name: material
+
 
 nav:
   - Accueil: docs/index.md
-  
-  
+  - Blog:
+    - blog/index.md
+
+
+theme:
+  features:
+      - navigation.instant
+      - navigation.sections
+      - search.suggest
+      - search.share
+  icon:
+    logo: fontawesome/solid/building-un
+  language: en
+  name: material
+  palette:
+    primary: black
+    accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
 
 
+extra:
+  tags:
+    Compatibility: compat
+  version:
+    provider: mike
+  consent:
+    title: Votre Consentement aux Cookies
+    description: >- 
+      Nous utilisons des cookies pour reconnaître vos visites répétées et vos préférences, ainsi que pour mesurer l'efficacité de notre documentation et savoir si les utilisateurs trouvent ce qu'ils recherchent. En donnant votre consentement, vous nous aidez à améliorer notre documentation.
 
 
 
-
-
-
-
-
-
-
-
+plugins:
+  - search
+  - blog
+  - tags
 
 
 
